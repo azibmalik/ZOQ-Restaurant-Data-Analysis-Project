@@ -1,0 +1,29 @@
+# Create .gitignore that preserves your visualizations
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Large data files only (keep structure)
+data/raw/*.csv
+data/processed/*.csv
+reports/*.json
+
+# KEEP ALL VISUALIZATIONS - they showcase your skills!
+# ✅ visualizations/ folder will be included
+# ✅ All PNG, HTML, and other viz files will be uploaded
+
+# Keep these essential files
+!data/README.md
+!data/raw/sample_*.csv
+EOF
