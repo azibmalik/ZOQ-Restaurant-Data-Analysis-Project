@@ -83,7 +83,7 @@ ZOQ-Restaurant-Data-Analysis-Project/
 
 ### 1. Revenue Trends & Forecasting Analysis
 
-**[INSERT revenue_trends.png HERE]**
+<img width="4769" height="3541" alt="revenue_trends" src="https://github.com/user-attachments/assets/e0b05d12-f530-4809-83cf-794aa7b75825" />
 
 Our comprehensive revenue analysis dashboard provides critical insights into business performance patterns:
 
@@ -96,7 +96,8 @@ Our comprehensive revenue analysis dashboard provides critical insights into bus
 
 ### 2. Customer Segmentation & Behavior Intelligence
 
-**[INSERT customer_analysis.png HERE]**
+<img width="4769" height="3541" alt="customer_analysis" src="https://github.com/user-attachments/assets/fad26f91-8f22-47a0-956e-5940d9ec4007" />
+
 
 Advanced customer analytics utilizing RFM (Recency, Frequency, Monetary) analysis methodology:
 
@@ -109,7 +110,7 @@ Advanced customer analytics utilizing RFM (Recency, Frequency, Monetary) analysi
 
 ### 3. Menu Performance & Optimization Analytics
 
-**[INSERT menu_performance.png HERE]**
+<img width="4765" height="3542" alt="menu_performance" src="https://github.com/user-attachments/assets/909a915e-8003-4212-b687-9515d4e54902" />
 
 Comprehensive menu analysis providing actionable insights for revenue optimization:
 
@@ -122,7 +123,8 @@ Comprehensive menu analysis providing actionable insights for revenue optimizati
 
 ### 4. Customer Satisfaction & Experience Analysis
 
-**[INSERT satisfaction_metrics.png HERE]**
+<img width="793" height="683" alt="satisfaction_metrics" src="https://github.com/user-attachments/assets/2ff0213b-8882-4486-b374-ef9951f9f0d8" />
+
 
 Multi-dimensional satisfaction analysis correlating customer experience with business metrics:
 
@@ -135,7 +137,7 @@ Multi-dimensional satisfaction analysis correlating customer experience with bus
 
 ### 5. Interactive Business Intelligence Dashboard
 
-**[INSERT interactive_dashboard.html screenshot HERE]**
+<img width="1511" height="888" alt="interactive_dashboard" src="https://github.com/user-attachments/assets/d0c2de92-b7a6-4044-bef5-63b7d46539d1" />
 
 Dynamic Plotly dashboard featuring:
 - **Real-time Data Exploration**: Interactive filtering and drill-down capabilities
