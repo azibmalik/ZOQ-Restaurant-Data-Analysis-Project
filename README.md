@@ -5,9 +5,17 @@
 > **Comprehensive restaurant data analysis achieving 29% revenue optimization through advanced analytics and data-driven insights.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5+-green.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21+-orange.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-red.svg)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-5.0+-purple.svg)](https://plotly.com/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-lightblue.svg)](https://seaborn.pydata.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.7+-yellow.svg)](https://scipy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Analytics](https://img.shields.io/badge/Analytics-Statistical-brightgreen.svg)](https://github.com/azibmalik/ZOQ-Restaurant-Data-Analysis-Project)
+[![BI](https://img.shields.io/badge/Business-Intelligence-blueviolet.svg)](https://github.com/azibmalik/ZOQ-Restaurant-Data-Analysis-Project)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue.svg)](https://github.com/azibmalik/ZOQ-Restaurant-Data-Analysis-Project)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Data Science](https://img.shields.io/badge/Data-Science-green.svg)](https://github.com/azibmalik/ZOQ-Restaurant-Data-Analysis-Project)
-[![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-purple.svg)](https://github.com/azibmalik/ZOQ-Restaurant-Data-Analysis-Project)
 
 ---
 
